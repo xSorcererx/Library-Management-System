@@ -1,0 +1,10 @@
+Harry Potter,JK Rowling,33,$2.0
+Start With Why,Simon Sinek,10,$1.5
+The Book Thief,Markus Zusak,20,$2.0
+Odyssey,Homer,15,$1.5
+Moby Dick,Herman Melville,13,$1.5
+Palpasa Cafe,Narayan Wagle,10,$1.5
+The Sound and the Fury,William Faulkner,11,$2.0
+Clean Code,Robert C. Martin,31,$2.0
+Effective Java,Joshua Bloch,20,$1.5
+Programming With Python,John Smith,20,$1.5
